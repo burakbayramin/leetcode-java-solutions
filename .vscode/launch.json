@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSumII",
+            "request": "launch",
+            "mainClass": "TwoSumII",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch MoveZeroes",
+            "request": "launch",
+            "mainClass": "MoveZeroes",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotateArray",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch SquaresofaSortedArray",
+            "request": "launch",
+            "mainClass": "SquaresofaSortedArray",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "ContainsDuplicate",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "LongestCommonPrefix",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeNumber",
+            "request": "launch",
+            "mainClass": "PalindromeNumber",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch RomantoInteger",
+            "request": "launch",
+            "mainClass": "RomantoInteger",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidAnagram",
+            "request": "launch",
+            "mainClass": "ValidAnagram",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidPalindrome",
+            "request": "launch",
+            "mainClass": "ValidPalindrome",
+            "projectName": "leetcode_329f2d14"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "leetcode_329f2d14"
+        }
+    ]
+}
