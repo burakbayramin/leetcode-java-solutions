@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RomantoInteger",
+            "request": "launch",
+            "mainClass": "RomantoInteger",
+            "projectName": "leetcode-java-solutions_fb17f346"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "leetcode-java-solutions_fb17f346"
+        },
+        {
+            "type": "java",
             "name": "Launch ReverseString",
             "request": "launch",
             "mainClass": "ReverseString",
